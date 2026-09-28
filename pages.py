@@ -80,7 +80,7 @@ input:focus+.ic{color:var(--accent)}
 <div class="footer">
   <div style="display:flex;flex-direction:column;align-items:center;gap:8px;padding:8px 0">
     <span style="font-size:13px;color:var(--t1)">
-      🟣 <strong>Purple-Panel</strong> — ساخته شده با ❤️ توسط 
+      🟣 <strong>AghaBanafshi</strong> — ساخته شده با ❤️ توسط 
       <a href="https://github.com/arvin341az-glitch" target="_blank" style="color:var(--accent);font-weight:700">@arvin341az-glitch</a>
     </span>
     <span style="font-size:14px;color:#A78BFA;font-weight:700;background:rgba(139,92,246,0.15);padding:6px 18px;border-radius:20px;border:1px solid rgba(139,92,246,0.3)">
@@ -90,7 +90,7 @@ input:focus+.ic{color:var(--accent)}
       📱 پشتیبانی مستقیم: <a href="https://t.me/aghabanafshiipvbot" target="_blank" style="color:var(--accent2)">@aghabanafshiipvbot</a>
     </span>
     <span style="font-size:11px;color:var(--t3)">
-      <i class="ti ti-brand-telegram"></i> کانال: <a href="https://t.me/X4GHUB" target="_blank" style="color:var(--accent2)">@X4GHUB</a>
+      <i class="ti ti-brand-telegram"></i> کانال: <a href="https://t.me/aghabanafshi" target="_blank" style="color:var(--accent2)">@aghabanafshi</a>
     </span>
   </div>
 </div>
