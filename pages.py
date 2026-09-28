@@ -816,7 +816,7 @@ a{color:inherit;text-decoration:none}
       <span style="color:var(--t3)">|</span>
       <span>📱 پشتیبانی: <a href="https://t.me/aghabanafshiipvbot" target="_blank" style="color:var(--accent2);font-weight:700">@aghabanafshiipvbot</a></span>
     </div>
-    <a class="df-link" href="https://t.me/X4GHUB" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/X4GHUB</a>
+    <a class="df-link" href="https://t.me/aghabanafshi" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/aghabanafshi</a>
   </div>
 </section>
 <section class="pg" id="pg-links">
@@ -1200,17 +1200,17 @@ a{color:inherit;text-decoration:none}
       </div>
     </div>
     <div class="srv-tiles">
-      <a class="srv-tile" href="https://www.youtube.com/@X4GHUB" target="_blank" style="text-decoration:none;cursor:pointer">
+      <a class="srv-tile" href="https://www.youtube.com/@AghaBanafshi" target="_blank" style="text-decoration:none;cursor:pointer">
         <div class="srv-tile-icon"><i class="ti ti-brand-youtube"></i></div>
-        <div class="srv-tile-text"><div class="srv-tile-label">یوتیوب</div><div class="srv-tile-val">youtube.com/@X4GHUB</div></div>
+        <div class="srv-tile-text"><div class="srv-tile-label">یوتیوب</div><div class="srv-tile-val">youtube.com/@AghaBanafshi</div></div>
       </a>
-      <a class="srv-tile" href="https://t.me/x4g_group" target="_blank" style="text-decoration:none;cursor:pointer">
+      <a class="srv-tile" href="https://t.me/aghabanafshiipvbot" target="_blank" style="text-decoration:none;cursor:pointer">
         <div class="srv-tile-icon"><i class="ti ti-users-group"></i></div>
-        <div class="srv-tile-text"><div class="srv-tile-label">گروه تلگرام</div><div class="srv-tile-val">t.me/x4g_group</div></div>
+        <div class="srv-tile-text"><div class="srv-tile-label"> ربات پیوی تلگرام</div><div class="srv-tile-val">t.me/aghabanafshiipvbot</div></div>
       </a>
-      <a class="srv-tile" href="https://t.me/X4GHUB" target="_blank" style="text-decoration:none;cursor:pointer">
+      <a class="srv-tile" href="https://t.me/aghabanafshi" target="_blank" style="text-decoration:none;cursor:pointer">
         <div class="srv-tile-icon"><i class="ti ti-speakerphone"></i></div>
-        <div class="srv-tile-text"><div class="srv-tile-label">کانال تلگرام</div><div class="srv-tile-val">t.me/X4GHUB</div></div>
+        <div class="srv-tile-text"><div class="srv-tile-label">کانال تلگرام</div><div class="srv-tile-val">t.me/aghabanafshi</div></div>
       </a>
       <a class="srv-tile" href="https://github.com/arvin341az-glitch" target="_blank" style="text-decoration:none;cursor:pointer">
         <div class="srv-tile-icon"><i class="ti ti-brand-github"></i></div>
@@ -1221,7 +1221,7 @@ a{color:inherit;text-decoration:none}
 </section>
 </main>
 <script>
-let isDark=localStorage.getItem('x4g-theme')!=='light';
+let isDark=localStorage.getItem('purple-theme')!=='light';
 function applyTheme(dark){
   document.documentElement.setAttribute('data-theme',dark?'dark':'light');
   const icon=dark?'ti-sun':'ti-moon',label=dark?'تم روشن':'تم تاریک';
@@ -1229,7 +1229,7 @@ function applyTheme(dark){
   document.getElementById('theme-label').textContent=label;
   const mobI=document.getElementById('theme-mob-icon');if(mobI)mobI.className='ti '+icon;
 }
-function toggleTheme(){isDark=!isDark;localStorage.setItem('x4g-theme',isDark?'dark':'light');applyTheme(isDark)}
+function toggleTheme(){isDark=!isDark;localStorage.setItem('purple-theme',isDark?'dark':'light');applyTheme(isDark)}
 applyTheme(isDark);
 function toast(msg,type=''){
   const t=document.getElementById('toast');
@@ -2081,7 +2081,7 @@ html,body{{min-height:100%;background:var(--bg);font-family:var(--serif);color:v
   <div class="footer">
     <span>ساخته شده با ❤️ توسط <a href="https://github.com/arvin341az-glitch" target="_blank">@arvin341az-glitch</a></span>
     <div class="credit">کاستوم‌سازی: <a href="https://t.me/AghaBanafshi" target="_blank">@AghaBanafshi</a></div>
-    <span>پشتیبانی: <a href="https://t.me/X4GHUB" target="_blank">@X4GHUB</a> · Purple-Panel v1.0</span>
+    <span>پشتیبانی: <a href="https://t.me/aghabanafshi" target="_blank">@aghabanafshi</a> · Purple-Panel v1.0</span>
   </div>
 </div>
 <script>
